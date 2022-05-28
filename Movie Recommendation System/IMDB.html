@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="IMDB.css">
+    <title>Movie Recommendation System of Amisha</title>
+</head>
+
+<body>
+    <nav class="navbar h-nav-resp" style="background-color: black;">
+          <ul class="nav-list v-class-resp">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="#Movies">Movies & TV Shows</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="trailer.html">Trailer</a></li>
+            <li><a href="#Sign&Contact">Sign Up</a></li>
+        </ul> 
+   </nav>
+   
+<section class="AllMovies" id="Movies">
+        <header>
+            <form id="form">
+                <input type="text" placeholder="Search Your Desired Movie" id="search" class="search">
+            </form>
+        </header>
+        <div id="tags"></div>
+        <div id="myNav" class="overlay">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <div class="overlay-content" id="overlay-content"></div>
+        </div>
+        <main id="main"></main>
+    </section>
+
+    <section class="contact" id="Sign&Contact">
+         <div class="container">
+            
+            <div class="contactForm">
+                <h2 style="margin: 31px 159px; display: flex;">Sign Up Here</h2>
+                <form class="formBox" id="SignContact">
+                    <div class="inputBox w50">
+                        <span>First Name :- </span><br>
+                        <input id="first" type="text" placeholder="Enter your first name" name="first" required>
+                    </div>
+                    <div class="inputBox w50">
+                        <span>Last Name :- </span><br>
+                        <input id="last" type="text" placeholder="Enter your second name" name="last" required>
+                    </div>
+                    <div class="inputBox w50">
+                        <span>Email Address :- </span><br>
+                        <input id="email" type="text" placeholder="Enter your email address" name="email" required>
+                    </div>
+                    <div class="inputBox w50">
+                        <span>Mobile Number :- </span><br>
+                        <input id="mobile" type="text" placeholder="Enter your mobile number" name="mobile" required>
+                    </div>
+                    <div class="inputBox w50">
+                        <span>Create Password :- </span><br>
+                        <input id="Npassword" type="text" placeholder="Enter your New Password" name="password"
+                            required>
+                    </div>
+                    <div class="inputBox w50">
+                        <span>Confirm Password :- </span><br>
+                        <input id="Cpassword" type="text" placeholder="Enter your Created Password" name="password"
+                            required>
+                    </div>
+
+                    <div class="inputBox w150">
+                        <input type="submit" value="Submit">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+    <section class="copyRight">
+        <center>
+        <p>
+            Copyright@2022-Amisha Prajapati-All rights reserved
+        </p> 
+        </center>
+    </section> 
+    <script src="IMDB.js"></script>
+</body>
