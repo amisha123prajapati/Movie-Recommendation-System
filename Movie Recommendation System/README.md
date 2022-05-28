@@ -11,18 +11,12 @@ Based and Collaborative based recommendation systems. My website is based on con
 # 1. Content Based Recommendation System:
  It uses attributes such as genre, director, description, actors, etc. for movies, to make suggestions for the users. The intuition behind this sort of recommendation system is that if a user liked a particular movie or show, he/she might like a movie or a show similar to it.
 
-
 </br></br>
 
 # 2. Collaborative Based Recommendation System:
 It matches users with same interests and gives recommendations based on their likes. Eg: There are two users Sam and Robin, Sam likes movies A,B,C,D and Robin likes movies C,D. Since movies C,D are common to both Sam and Robin, thus movies A and B would be recommended to Robin. Collaborative filtering does not make use of metadata to give recommendations.
 ![results](https://miro.medium.com/max/4996/1*3m0Jmc_k0NP3_CCwnwdB7Q.png)
 </br></br>
-
-
-![results](https://miro.medium.com/max/4996/1*3m0Jmc_k0NP3_CCwnwdB7Q.png)
-</br></br>
-
 
 # Importance:
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices,without having to expend their cognitive resources.  
@@ -48,6 +42,7 @@ To make a web based application for movie recommendation system.
 4) You can click over the tags present at the top and can search for a movie with the particular combination of features/tags
 5) You can sign up in the bottom and your data is printed in the console
 6) Every link is functionable and have particular role
+ Website link(https://amisha-movie-recommendation-system.netlify.app/)
 </br></br>
 
 # Pre-requisite to run the application: 
