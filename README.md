@@ -53,7 +53,7 @@ To make a web based application for movie recommendation system.
 5) You can sign up in the bottom and your data is printed in the console
 6) Every link is functionable and have particular role
 </br></br>
-Website[Link](https://amisha-movie-recommendation-system.netlify.app/)
+# Go to website [Link](https://amisha-movie-recommendation-system.netlify.app/)
 
 # Pre-requisite to run the application: 
 Vs Code Editor with Live Server Extension
