@@ -20,12 +20,12 @@ Based and Collaborative based recommendation systems. My website is based on con
 
 # 2. Collaborative Based Recommendation System:
 It matches users with same interests and gives recommendations based on their likes. Eg: There are two users Sam and Robin, Sam likes movies A,B,C,D and Robin likes movies C,D. Since movies C,D are common to both Sam and Robin, thus movies A and B would be recommended to Robin. Collaborative filtering does not make use of metadata to give recommendations.
+</br></br>
 ![results](https://miro.medium.com/max/4996/1*3m0Jmc_k0NP3_CCwnwdB7Q.png)
 </br></br>
 
 
-![results](https://miro.medium.com/max/4996/1*3m0Jmc_k0NP3_CCwnwdB7Q.png)
-</br></br>
+
 
 
 # Importance:
@@ -53,6 +53,7 @@ To make a web based application for movie recommendation system.
 5) You can sign up in the bottom and your data is printed in the console
 6) Every link is functionable and have particular role
 </br></br>
+Website[Link](https://amisha-movie-recommendation-system.netlify.app/)
 
 # Pre-requisite to run the application: 
 Vs Code Editor with Live Server Extension
