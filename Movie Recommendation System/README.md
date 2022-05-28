@@ -41,7 +41,7 @@ To make a web based application for movie recommendation system.
 3) On clicking Know more your overlay window opens to present you the youtube videos
 4) You can click over the tags present at the top and can search for a movie with the particular combination of features/tags
 5) You can sign up in the bottom and your data is printed in the console
-6) Every link is functionable and have particular role
+6) Every link is functionable and have particular role </br>
  Website link(https://amisha-movie-recommendation-system.netlify.app/)
 </br></br>
 
