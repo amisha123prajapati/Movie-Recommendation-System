@@ -52,7 +52,7 @@ To make a web based application for movie recommendation system.
 4) You can click over the tags present at the top and can search for a movie with the particular combination of features/tags
 5) You can sign up in the bottom and your data is printed in the console
 6) Every link is functionable and have particular role
-</br></br>
+</br><
 # Go to website [Link](https://amisha-movie-recommendation-system.netlify.app/)
 
 # Pre-requisite to run the application: 
@@ -60,7 +60,7 @@ Vs Code Editor with Live Server Extension
 </br></br>
 
 # Future Scope of this project:
-It was a learning project about recommendation system. This caode can be modified to dynamic web application for any real world recommendation system for example: Book recommendation, project recommendation, fashion recommenation, image recommendation etc. And by using some extra back-end
+It was a learning project about recommendation system. This code can be modified to dynamic web application for any real world recommendation system for example: Book recommendation, project recommendation, fashion recommenation, image recommendation etc. And by using some extra back-end
 programming we can make it more interactive, creative and responsive fullstack project  that will help to grow faster in business/startup.
 </br></br>
 
