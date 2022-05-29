@@ -60,7 +60,7 @@ Vs Code Editor with Live Server Extension
 </br></br>
 
 # Future Scope of this project:
-It was a learning project about recommendation system. This code can be modified to dynamic web application for any real world recommendation system for example: Book recommendation, project recommendation, fashion recommenation, image recommendation etc. And by using some extra back-end
+It was a learning project about recommendation system. This code can be modified to dynamic web application for any real world recommendation system for example: Book recommendation, project recommendation, fashion recommendation, image recommendation etc. And by using some extra back-end
 programming we can make it more interactive, creative and responsive fullstack project  that will help to grow faster in business/startup.
 </br></br>
 
